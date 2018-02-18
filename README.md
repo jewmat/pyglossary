@@ -7,9 +7,9 @@ from/to various formats used by different dictionary applications
 Donation
 ---------
 Please send your donations through one of these cryptocurrencies:
--	Bitcoin: 1MhRK8jKDFJ8jbDgZjrSGBbUMdd1QxDFfM
--	Litecoin: LaBwMfwSErtvFvvtj3FGUmJ8W65f5ScF8X
--	Vertcoin: VwZNfv7G9HeFpuKs5TGu1ghJT7zG55deUT
+-	Bitcoin: [1MhRK8jKDFJ8jbDgZjrSGBbUMdd1QxDFfM](https://bchain.info/BTC/addr/1MhRK8jKDFJ8jbDgZjrSGBbUMdd1QxDFfM)
+-	Litecoin: [LaBwMfwSErtvFvvtj3FGUmJ8W65f5ScF8X](https://bchain.info/LTC/addr/LaBwMfwSErtvFvvtj3FGUmJ8W65f5ScF8X)
+-	Vertcoin: [VwZNfv7G9HeFpuKs5TGu1ghJT7zG55deUT](https://bchain.info/VTC/addr/VwZNfv7G9HeFpuKs5TGu1ghJT7zG55deUT)
 
 Screenshots
 -----------
